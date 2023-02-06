@@ -7,6 +7,7 @@ let media;
 let cMedia = 0;
 let cCandi = 0;
 let texto = "";
+let msg = "";
 
 while(add == 1){
     numCandi = prompt("Qual o número do candidato? ");
